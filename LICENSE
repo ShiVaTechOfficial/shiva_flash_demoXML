@@ -1,6 +1,10 @@
+----------------------------------------
+LICENSE FOR THE LUA CODE
+----------------------------------------
+
 MIT License
 
-Copyright (c) 2019 ShiVa Technologies SAS official GitHub
+Copyright (c) 2019 ShiVa Technologies SAS
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +23,20 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+----------------------------------------
+LICENSE FOR THE ART ASSETS
+----------------------------------------
+
+All 2D and 3D art assets in the STE packs is (c) ShiVa Technologies SAS. You
+may not re-use these assets without written authorization from ShiVa Technologies
+SAS in your own public projects.
+
+----------------------------------------
+LICENSE FOR ADOBE FLASH
+----------------------------------------
+
+The players provided to you as part of the Adobe Flash installation process are 
+provided for testing and development purposes. All rights to use Adobe Flash 
+Player are governed by the Adobe Flash Player End User License Agreement.
+See https://www.adobe.com/legal/licenses-terms.html
